@@ -42,5 +42,5 @@ This project performs predictive analytics on a coffee shop’s transaction data
 **Kinza Rani**  
 AI/ML & Data Science Enthusiast  
 📧 Email: kinzaishfaq489@gmail.com  
-🌐 LinkedIn: [Your LinkedIn Profile][(https://www.linkedin.com/in/kinza-rani-43a6202b7/)]
+🌐 LinkedIn: [Your LinkedIn Profile(https://www.linkedin.com/in/kinza-rani-43a6202b7/)]
 
